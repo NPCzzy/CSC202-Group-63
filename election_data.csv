@@ -1,0 +1,11 @@
+constituency_id,constituency_name,region,eligible_voters,total_votes,candidate_A,candidate_B,candidate_C,invalid_votes,voting_stations,population_density
+1,North District,North,120000,98000,52000,42000,3000,1000,45,250
+2,Central Districct,Central,185000,150000,80000,65000,3000,2000,62,420
+3,South District,South,98000,85000,45000,38000,1000,1000,38,180
+4,East District,East,145000,120000,65000,50000,3000,2000,52,310
+5,West District,West,110000,95000,50000,42000,2000,1000,40,210
+6, North-East District,North,92000,78000,78000,41000,1000,2000,35,190
+7,Central-East District,Central,165000,140000,75000,60000,3000,2000,58,380
+8,South-West District,South,88000,75000,40000,32000,1000,2000,34,170
+9,North-West District,North,105000,90000,48000,39000,1000,2000,42,230
+10,Central-South District,Central,175000,145000,78000,62000,3000,2000,60,400
